@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Minori Yukata+
+- 👋 Hi, I’m Minori Yukata!
 - 👀 I’m interested in robotics!
 - 🌱 I’m currently learning C++!
 - 💞️ I’m looking to collaborate on, anything, really.
